@@ -1,0 +1,30 @@
+h1{
+    color: #405ED2;
+    font-family: satisfy;
+    font-size: 7em;
+    font-family: Abril Fatface;
+}
+h2, h3{
+    color: #2000FF;
+    font-family: Abril Fatface;
+}
+body{
+    background-color: rgba(0, 209, 244, 0.87);
+
+}
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px 24px;
+    border: 0px solid #000000;
+    border-radius: 30px;
+    background: #fa1b1b;
+    background: -webkit-gradient(linear, left top, left bottom, from(#fa1b1b), to(#000000));
+    background: -moz-linear-gradient(top, #fa1b1b, #000000);
+    background: linear-gradient(to bottom, #fa1b1b, #000000);
+    text-shadow: #ff0000 -4px 2px 0px;
+    font: normal normal bold 20px comic sans ms;
+    color: #ffffff;
+    text-decoration: none;
+}
