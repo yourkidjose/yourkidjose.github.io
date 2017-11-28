@@ -1,15 +1,15 @@
 h1{
-    color: #405ED2;
+    color: #30A8D2;
     font-family: satisfy;
     font-size: 7em;
     font-family: Abril Fatface;
 }
 h2, h3{
-    color: #2000FF;
+    color: #27AAD8;
     font-family: Abril Fatface;
 }
 body{
-    background-color: rgba(0, 209, 244, 087);
+    background-color: rgba(55, 55, 55, 0.87);
 
 }
 .button {
